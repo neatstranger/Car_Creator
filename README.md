@@ -16,3 +16,6 @@ What's right: it seems after so many iterations, we have something that is resem
 
 What's wrong: if there is a car, it is very mishapen and blurry. Going to keep working on getting the thing going.
 
+
+What's next: I am going to update my network slightly, figure out a way that I can run this thing and bench mark it without breaking the bank...
+
